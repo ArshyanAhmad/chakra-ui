@@ -28,6 +28,7 @@ function Header() {
         w={"10"}
         h={"10"}
         borderRadius={"full"}
+        zIndex={"overlay"}
         onClick={onOpen}
       >
         <BiMenuAltLeft size={"20"} />
